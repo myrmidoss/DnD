@@ -1,0 +1,95 @@
+Cellar:
+-------
+Meet Eagus, Carric and Thia.
+Initial Dungeon? Test for adventurers.
+Precarious positions, looks liek cult activity. Also, LOUD.
+Intro to Eagus
+Arrested by Lex
+|
+|
+V
+Cell:
+-----
+Listen to tales of possibilities
+Thia raped (killed?), rest sent through portal by mage.
+Portal prep takes some time; hours--long enough to find it from other side.
+|
+|
+V
+Light Jungle:
+-------------
+Dumped. Items given back, save coins.
+Eagus bolts, Carric raves to go back.
+Humans run up, see stuff, and try to take it. Encounter.
+Detect civ (lights at night?)
+|
+|
+V
+Shanty Town:
+------------
+Meet Hank, Balasar, Naivara, BNurt, Sneevely, and Krogg.
+Talk to Hank about getting back. Says:
+	-Everyone tries and fails
+	-There is a way, one guy did it
+	-He has that guy's map/notes, and will give them to you if you
+retrieve Atomusk from the Nomads. Pretty sure Randolph took him. Go ahead and
+kill Randolph, just make sure he doesn't come back.
+|
+|
+V
+Nomadic Plains:
+---------------
+Explore and fight bands until you find Randolph.
+He decides to fight Hank, kill him for help, but get the MAP.
+Map indicates you first need "the instinct of a chained beast to find your way
+in the mountains."
+Travel is many days, must prep and somehow get supplies w/o money.
+If Hank survives your choices, he'll offer Atomusk if you promise:
+	-To bring him back safely
+	-To try and provide a woman for them to start a society with, if
+possible.
+	-If any harm comes to Atomusk, Hank can come back later in the story
+for vengeance.
+|
+|
+V
+Treacherous Mountains:
+----------------------
+Chain starts moving when you arrive.
+After following, you spot a boy, Alvyn. Nackle Clan rescues, introduced.
+They remember the last guy who got back, provide insight on the map.
+It's an underground city, ancient and abandoned. They show you to it and how
+to get past the gnomish disguises (if you don't murder them).
+|
+|
+V
+Underground City:
+-----------------
+Exploring via the map, you find:
+	-A room with 2 stones, some feet apart, one a chunk broken from the
+larger. Atomusk's chain draws you to this room, and reacts to each stone, 
+whichever one it's closest to.
+	-A series of knotted grappling hook prototypes (must repair one)
+	-A stone steed golem you can activate from another part of the city
+The entrance should close in on you for some reason or another, so your only
+exit will be finding a deeper way out, where you'll find Eagus and his
+creation, turned. Fight it. It's a legit fucking dinosaur so you'll have to
+begin using environmental hazards to fuck it up until it's really messed up
+and you can fight it to death.
+He'll tell you whatever you want afterwards. He was sent here once before, and
+vowed to get out, but on his way, discovered the dinosaur bones. It was too
+late to do anything about it, so he ended up leaving behind crucial components
+to their resurrection. Thus, he's intentionally coming back, intentionally
+inviting people to a suspicious event to frame it as cult activity to ensure
+he comes here. He also has another cult event scheduled so that he can come
+back afterwards. The key piece is that he hid part of the stone in wyverncliff
+(he threw it into an open portal last time w/ an arrow), so that when the
+portal is opening, Atomusk's collar reacts. Last time he used a gnome
+invisibility potion, but there's no way to get 5 doses.
+|
+|
+V
+Light Jungle:
+-------------
+Do whatever, eventually hang in light jungle and wait for reactiion from chain
+to ride to the place it's going to spawn from.
