@@ -1,0 +1,93 @@
+Venture for a while, looks like there's jack shit out there. You think the desert is magically disguised.
+Eventually you come across something that looks like a tomb. It houses Vorniclex, god of hunger (for bread).
+The tombs are just cobwebs and skeletons and dust--you note the sand floor. The ceiling isn't too high, and
+there are pillars that look like they ca be climbed to the top.
+
+
+Pita, Wheat and Potato ovens, respective drawings over them. Riddle: variety beckons, in gnomish.
+Summons bread god. He can tell you/enchant something to tell you where the nearest bread is.
+  Survialism -- DC 10 to find/procure wheat
+             -- DC 14 to find/procure potatoes w/o hassle
+  Need water and salt
+  Geography -- DC 13 to find where salt might be
+  Should have brought water, idiots. Piss will work.
+  Perception can also be used to search for supplies within the tomb environment.
+
+
+
+Turns out sandsnakes love bread, a huge one comes for the bread, stays for the meat.
+  The oven structure should provide an interesting ground for fighting it. Have multiple stories, something 
+  they can climb onto the roof and hold their ground. It'll leap up onto the roof and provide opp for attack.
+  Then it'll flop back down to the sand.
+
+  Sandsnake:
+    Omnivores, they will eat anything, but if they find meat, they'll stick around to get it.
+    Large, 12+ foot long creature, large, sharp spinal vertebrae sticking out of its back, dry hiss, moves
+      exceptionally fast in the sand, and burrows.
+    HP: 75, AC: 16, Dex: +3, Str: +2, Exp: 300?
+    Fanged Leap--if you're chosen, you make a dex (reflex) save, DC 15
+      If you pass, the snake misses, and you take no damage, and are not poisoned.
+        The snake is stuck there for a turn, and you may proceed to wail. The turn it wakes up it makes a 
+        spined leap off of the platform in the closest direction.
+      If you fail, the snake bites you for 1d8+2, drags you off the platform, and poisons you, making you
+        incapacitated unless you pass a DC 13 consitution save.
+    Spined Leap--it flies across the platform, everyone takes a dex (reflex) save, DC 11
+      If you pass, you dodge in time, if you don't, you take a flat 2 damage.
+      Doesn't provoke attacks of opportunity.
+    Constriction--it leaps up and acts like it's going in for a bite, but actually wraps around, DC 16 Dex save
+      The target is immobilized, considered a grapple, but the target loses its turn after escaping. Can use
+      normal attacks while in this state.
+    Tail Swing--d20+4 v AC, swipe at an opponent
+    Sand Spit--Bonus action, d20 + 8 vs AC, target is blinded for three turns.
+    When it reaches 30 HP, a missed attack will crash through the roof.
+
+    The snake will get very hungry after leaping around 3 times and go for a bite.
+    If you stay on the ground, the snake will never present itself, and will have the advantage.
+    The sand is difficult terrain, and you will have disadvantage on anything, as well as 1/2 speed.
+
+Should it drop a magic item: weapon? Armor?
+  Sandsnake helm sounds pretty cool. Flavor: is perpetually (seemingly magically) losing sand. You can never clean it.
+    Benefit: it's a really good helmet, and gives +2 to intimidation rolls.
+
+Immediately afterwards, you need to leave the bread and BAIL onwards
+
+
+
+Okay, so they kill the baby sand snake and the mother is coming. They need to
+hide or something (sarcophagus), and those will send them down into the dungeon
+underneath.
+
+Dark Souls Man:
+  He's stuck in a room with a bonfire in the middle, and a fog door on one
+  side, no other exits in sight. The first boss from Dark Souls lays there. The
+  room is roughly the same, large open area with pillars, but sand pouring
+  down, stone tiles to stand on so they don't have slow movement. Two pedestals
+  divide the room. One has a roll on it and one has a badass looking sword.
+  When he steps on the floor tiles to progress towards a thing, the boss will
+  come crashing down as he is wont to do. The roll is full of
+  allergens--gluten, nuts, lactose, etc... It will kill him. Make sure to note:
+    -Has his mouth open, tongue hanging out.
+    -Has an epi pen? Maybe another kind of hint.
+
+Taenerys:
+  Has to resist urge of burning down dry wheat field?
+  Something of royalty seems better. Royalty mixed with a bit of religion. It's
+  a door that only a god can let you through (any god). She needs to forge some
+  kind of divine implement to use on the door. But using the stuff in the room,
+  which should be kinda messed up.
+
+Grond:
+  Do something only  a small person can do? He's not THAT small though.
+  Possibly the mirror puzzle. Oh so the mirror has a little kid in it holding
+  the key and teasing him. Any solution is acceptable. If you actually get to
+  him, he's dressed in ancient garb and only speaks Gnomish, so good luck there.
+
+After this they should all reach the same room. 
+
+Not really a puzzle, but to progress someone has to put their arms into holes
+in the wall, and the doors open. Then that person's arms are locked into place.
+
+Vorniclex has his Sand Witches attack people. Once they die, he resurrects them
+and they leave you alone. He uses yeast to make them "rise". It's strong enough
+to make anything rise--even from the dead. He then provides you a single-use
+package.
