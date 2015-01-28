@@ -1,10 +1,17 @@
 Index
 =====
 
-### Utilities ###
+# Characters #
 
-1. [Characters](characters/Characters.md)
+### Gods ###
 
-### Story ###
+- [Vorniclex](characters/Vorniclex.md)
+- [Urabrask](characters/Urabrask.md)
+- [Keranos](characters/Keranos.md)
 
-1.[Decisive Desert Battle](story/01DecisiveDesertBattle.md)
+# Story #
+
+1. [A Conspicuous Meeting](story/01AConspicuousMeeting.md)
+2. [The Imminent Jailing](story/02TheImminentJailing.md)
+3. [The New World](story/03TheNewWorld.md)
+4. [The Drier World](story/04TheDrierWorld.md)

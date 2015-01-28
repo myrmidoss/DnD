@@ -38,7 +38,7 @@ Turns out sandsnakes love bread, a huge one comes for the bread, stays for the m
       The target is immobilized, considered a grapple, but the target loses its turn after escaping. Can use
       normal attacks while in this state.
     Tail Swing--d20+4 v AC, swipe at an opponent
-    Sand Spit--Bonus action, d20 + 8 vs AC, target is blinded for three turns.
+    Sand Spit--Bonus action, d20 + 8 vs AC, target is blinded for two turns.
     When it reaches 30 HP, a missed attack will crash through the roof.
 
     The snake will get very hungry after leaping around 3 times and go for a bite.
