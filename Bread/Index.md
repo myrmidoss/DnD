@@ -15,3 +15,4 @@ Index
 2. [The Imminent Jailing](story/02TheImminentJailing.md)
 3. [The New World](story/03TheNewWorld.md)
 4. [The Drier World](story/04TheDrierWorld.md)
+5. [The Hell of the Mountain King](story/05TheHellOfTheMountainKing.md)

@@ -206,7 +206,83 @@ Also, while stuff is happening, Atomsk will get distracted by a Mimic, which is
 disguised as a loaf of bread sitting conveniently in the desert. The party will
 die if it tries to fight everything, so they should pick their battles.
 
-## Back To The Vilage
+## Back To The Vilage ##
 
 Not much here, but the Sandwich should be roaming around freaking people out,
 being his eyes and ears.
+
+### Village Attack ###
+
+So Randolph came back with you for some reason (party choice), and the village
+is gonna go through some serious shit. Namely, Hank doesn't want anyone to
+leave this realm (he can't go back, because of his shame. That's why he likes
+it here. He wants a fresh start). He will strongly oppose you if he learns of
+your plans to leave.
+
+The sand witch is roaming around, looking for company. She's lonely and is
+strangely attracted to Andral. She won't speak, but she'll get as close as she
+can to him as possible.
+
+## Everyone Gets Murdered ##
+
+Events end up in such a way that the clans turn on each other, and mostly end
+up murdering each other. The party locks Hank, Randolph and Krogg into the
+house and light it on fire. They manage to kill everything standing in their
+way. The night is ablaze with the fire, burning over Hank's hole in the ground.
+It flickers and illuminates the various huts, emphasizing how haphazardly they
+were put together, and in turn, how well-planned the holes were placed. As you
+look to the desert, you see a shimmer of eyes lining the horizon, bobbing as
+they approach. Their black, haggard shapes are revealed as they walk in front
+of Randolph's bonfire, backlit. Krogg is going to come out holding Hank's
+corpse, and give a speech about how he was a good guy.
+
+>"Hank only want nice place. New start. He invite criminal in with open arms.
+He know past, and see through it. You treated ANY better back home?"
+
+Krogg waits for a pause. The party basically can't do anything to convince him
+not to kill them, but I'm open to ideas.
+
+>"NO. You sent here same reason Krogg sent here. They not nice. You no better.
+Hank made village good. Made Krogg good person. You want see Krogg bad person?
+Here."
+
+Krogg tosses Hank's body aside, and dramatically slams his battle axe into the
+ground, cleaving a pretty serious hole. He then addresses Taenerys directly.
+Prehaps rephrase if it's too silly.
+
+>"You." _Krogg points at Taenerys._ "Krogg illiterate, Krogg no dumb. Fire;
+Dragon. Krogg never like dragon. Dragon want village lose Hank? No Hank."
+_Krogg gestures at Hank's corpse on the ground._ "No Hank, Krogg no reason be
+nice. Krogg no reason counseling. Draaaagon. Dragon have treasure Krogg want
+for Krogg pile. KROGG WRING TREASURE FROM DRAGON SCALY VEINS, AND FEED TO
+EARTH."
+
+Apparently Krogg is an earthbound Half-Orc, who believe in the oneness of the
+earth, the fairness of brutality, and the fact that we must spill our blood
+into the earth once again to nurture it, and make it as strong as we once were.
+It gives the earth the strength to carry on, and when blood is not spilled, but
+squandered in a corpse, it is wasted in the sky, making the winds a bit
+harsher, and the world colder. Thus, when he cleaves into Hank, and spreads
+some of his blood across his face, he's being somewhat selfish, but basically
+saying that Hank is lending him some of his power. This isn't Grummush canon,
+but it's something the orcs of this region have adapted over the years.
+
+As the wind begins to whip, the fire from Hank's thatched hole begins blowing
+embers across the village, and you notice huts beginning to burn down, and
+thatches lighting aflame.
+
+So, solve this as you will. The general idea is that the village is burning,
+and you have some shit to deal with. The pissed-off Half-Orc, and the impending
+tide of sandwitches, one of which can be dealth with. There is also the
+challenge that this village has some nice shit in it, namely in Krogg's hut,
+and it would be beneficial to get it.
+
+Note: Krogg has a dancing axe, and Naivara has a cloak of Elvenkind (if she
+dies). Krogg uses this axe with the blood of a fallen friend, and it requires
+this to attunement. It bears the eye of Grummush. Also, he wears a ring of
+protection. If you go into his home, you find weapons, a lot of gems, and that
+stupid tiara that lets you use scorching ray.
+
+## The Flight to the Mountains ##
+
+Get the fuck out.
