@@ -7,7 +7,7 @@ Index
 
 - [Vorniclex](characters/Vorniclex.md)
 - [Urabrask](characters/Urabrask.md)
-- [Keranos](characters/Keranos.md)
+- [Keranos](characters/Keranos.md) (Karador?)
 
 # Story #
 

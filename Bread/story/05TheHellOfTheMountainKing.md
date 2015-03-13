@@ -286,6 +286,53 @@ Balasar will try to gamble with Jacques (and co), betting gems and such shit.
 He also wants someone to make alcohol for him. That could be an interesting
 experience.
 
+So this started last session and is now coming to fruition. This session should
+start out with whatever conflict, have some blank perception rolls, and then
+slowly show that Jacques is doing whatever Balasar wants, because he owes him
+money. Note that balasar has all of Jacques' shiny things now, and Jacques
+should consider stealing his things back. Balasar will probably catch him and
+make a scene and drive a conflict between himself and Jacques and the group.
+
+Before this, at the beginning of the session, there will be an imminent
+encounter of some kind of sand monster. Which will make the arrival of those
+left behind even more suspicious. An interesting encounter, too. Varied
+terrain. An obstacle like a river, some trees for cover. The creatures should
+be important. I'm thinking bears or something, representing a change in the
+environment, and an indication that Urabrask has seen bears before. That once,
+there was life here.
+
+After the battle there should be a stone outcropping that they can climb up to
+get a super good view of the land. The sand is encroaching. Oh hey if they
+found a crazy secluded area it could have some dinosaur bones in it.
+
+### Those Left Behind ###
+
+An interesting point of interaction should be that a bunch of stragglers made
+it out of the village alive, and they catch up with the group somehow. The
+secret will be that they've been revived by Urabrask--and the wood elves are
+back (spoooookyyyyy). They'll have some alibi (when they woke up, they were
+sprawled out by the oasis, someone must have saved them, etc...), but it won't
+be entirely true. Basically they'll all be disciples of Urabrask, with varying
+degrees of devotion (Elves very, Dragonborn very poor). They'll have some
+insignia showing this, tattoo'd out of sight or whatever. They'll conceal their
+intentions from anyone, and basically assert they have no reason to talk, and
+they've done nothing wrong. Basically, you figure they're up to no good but you
+have no reason to believe or disbelieve them, and they don't want to join you.
+
+I also want to start introducing consequences of Urabrask's spell. Does Andral
+start to mold? Does he begin having visions? There should be some interesting
+consequence. And throw Taenerys some more action than just random Dragonborn
+dudes asking to bang. She wants to try out her tiara, but what else can she do?
+Her motivation is to reunite the clans and to burn stuff. Give her stuff to
+burn, give her more Dragonborn juice. I think just getting to the gnome boy
+should be enough for her this time. Make stuff go fast. Plan it out and keep
+the momentum up.
+
+Taenerys has giant, which the gnomes speak. So she'll be occupied. I can make
+this session more fast-paced, and leave the Gnome part short and sweet. More
+fast things thrown in there. Short challenges. There will be some good bit of
+dialogue, so I might work to cut it down.
+
 ### Gnome ###
 
 Then, they see it. In the distance, on a hill, a gnome boy climbing over rocks.
@@ -329,3 +376,52 @@ and back.
 
 I'm also open to just about any other ideas. Describe the area liberally, and
 just go for it.
+
+Idea: the gnomes remember the dinosaurs coming from the desert, and they
+considered it the end of days. When they hear that it's happening again,
+their suspicions are confirmed--they believe the land was always plagued by
+monsters, and that they still can't leave their mountain sanctuary. As much as
+you try to convince them that it was fine before, they don't believe you.
+Recall, these are the fearful gnomes, the ones who ran instead of fighting.
+They are very non-confrontational, and will take the safe route no matter what.
+Finkley took forever to capture an imprison because he is the only violent one
+out of all of them. I need a good reason why he managed to escape instead of
+fighting and dying. When they see the players, they'll think they're giants
+(since the only giant they know is that one dude), but they'll be suspicious of
+their small stature. The giant's name isssss Gorm. Gorm the Ancient One. I'll
+say that, in this universe, giants live to be real old. The gnomes revere him
+for his wealth of knowledge. He can't get out of this place, though, as he grew
+up inside and became too large. As such, he's grown somewhat lethargic.
+
+### Dungeon ###
+
+There is a dark crypt-like area to break into and venture through before you
+find the gnome city. It'll be lined with traps, but no living threats, except
+that maybe a sand monster will find you, and chase you through it. That would
+be fun, huh? Let's do that. Some obviously powerful sand beast lumbers up and
+presents a slow and imminent threat to chase you through.
+
+Traps can be improvised, as may be the whole dungeon, honestly. It will be
+clear that the intent was to mislead and kill. It'll maze along in many
+directions, leading nowhere, and cause players to get into terrifying
+situations where they'll have to use their ingenuity to escape the beast.
+
+Finally, there will be an expanse to provide a good bit of room between them
+and the monster, before they come to a suspicious dead end. Functionally a
+puzzle with many solutions. I think they should be aware that it's possible to
+get through, and just go from there. The riddle will be the anglo saxon riddle
+for mead, which must be solved in a time crunch, but will allow passage. The
+riddle also sounds like a warning to the brutish for destroying the beautiful.
+
+[Mead
+Riddle](http://en.wikisource.org/wiki/Anglo-Saxon_Riddles_of_the_Exeter_Book/59)
+
+Traps:
+
+* Pit -- Avoid falling in, taking damage, somehow get over it, etc.
+* Magic Runes -- Explode with elemental energy avoid triggering/hop over
+* Pressure Plates -- Trigger shit like arrows, etc, you can leap over them in a
+sprint.
+* Doors -- Locked (you can bust it down), maybe some with just stone walls
+behind them.
+* Tripwires -- Some covered in dust, triggering fire or arrows, etc.

@@ -13,7 +13,13 @@ the questions stage, for exploring who their characters are. They might be
 allowed minimal powers (keep in mind, this is the universe the native americans
 believed they lived in. Foresight is possible. Turning into animals is
 possible...), but magic should be restrained to some degree. I think it fits
-the flavor well enough to have powers, anyhow.
+the flavor well enough to have powers, anyhow. They should also have an idea of
+who/what they worship. Worship ideas:
+
+*  The shapeless one--shapeshifting being whose purpose is to serve mankind, as
+a point of contact for the other great spirits.
+* Life-Giver, the spirit that creates life from his own flesh.
+* Assorted animal dieties, with appropriate properties.
 
 Basically, I think the order should go:
 
@@ -77,8 +83,8 @@ familiarity with them.
 
 Once their fates have been decided, and even the suspicious middle elder is
 satisfied, they will be told that they will be allowed the night to tell any
-loved ones and get anything out of the way, for tomorrow, they venture out at
-dawn.
+loved ones and get anything out of the way, for tomorrow, they venture out from
+Shell River (this place) at dawn.
 
 ## Mingling ##
 
@@ -134,8 +140,8 @@ have one lead: Totocqueal was a beast who lived in the sky with a penchant for
 kidnapping little girls.
 >
 > And so all the animals from the village gathered together to come up with a
-way to save the little girls. They knew he lived in the stars, and so they
-decided to build a ladder to his home in the stars. They gathered hemlock trees
+way to save the little girls. They knew Totocqueal lived in the stars, and so
+they decided to build a ladder to his home. They gathered hemlock trees
 and carved them to arrows, and a massive, ancient cedar tree, and carved it
 into a bow. They needed someone to string the bow, and so all the strongest
 animals got in line to string this massive, rigid cedar tree. One after
@@ -174,9 +180,10 @@ making off with his captured girls.
 Totocqueal. However, it is not long before the lumbering beast catches up. He
 jumps onto the ladder, and in his massive weight, destroys it on landing. The
 ladder splinters into millions of pieces, and the animals are all sent flying
-into space, to float there forever. And there you can still see them, floating
-there as constellations, reminders of the importance of duty, and the
-consequence of cowardice.
+into space, to be immortalized. And there you can still see them, floating
+there as constellations, reminders of the importance of duty over embarassment,
+and bravery over cowardice. Totocqueal was not so lucky, and fell down to
+earth, trapped there to this day.
 
 Use a draw from the fortune deck to interpret the meaning of the story for the
 heroes, and to get a feeling for what's to come.

@@ -325,6 +325,11 @@ while they're trying to get deeper into the desert, they will need to spend
 time and energy finding enough to sustain their journey, which will be the main
 conflict of interest.
 
+About at this point, there should be a struggle with water and encumbrance. The
+players will have to ditch their coats, or perhaps other things. Basically they
+should have to choose something to bail on and experience the consequences of
+those choices.
+
 ### The Aztecan Cities ###
 
 There will be a short encounter with a river, crossing it, etc, perhaps helping
